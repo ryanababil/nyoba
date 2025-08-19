@@ -1,13 +1,4 @@
 jan
 feb
 mar
-apr
-mei
-jun
-jul
-agus
-sept
-okt
-nov
-des
-baruuuuuuuuuuuuuu
+apri
